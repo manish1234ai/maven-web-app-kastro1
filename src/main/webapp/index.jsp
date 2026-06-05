@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Congratualtions, KASTRO KIRAN! Successfully Deployed JAVA Project  <font></h1>
+<h1><font color='red'> this is my first project to deploy ourself <font></h1>
 
 <a href="this is my first deployment code with self test">Click Here To See My YouTube Channel</a>
   
