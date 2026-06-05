@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> Congratualtions, KASTRO KIRAN! Successfully Deployed JAVA Project  <font></h1>
 
-<a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
+<a href="this is my first deployment code with self test">Click Here To See My YouTube Channel</a>
   
   <h2> Thank you</h2>
   
