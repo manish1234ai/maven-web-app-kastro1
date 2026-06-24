@@ -7,7 +7,7 @@
 <h1><font color='red'> added new file in the gitpos <font></h1>
 <h1><font color='red'> webhook test <font></h1>
 <h1><font color='red'> this work through the pipline <font></h1>
-<h1><font color='red'> we have addedd ssl cert in the jenkis and tomcat <font></h1>
+<h1><font color='red'> new testing with linux<font></h1>
 
 <a href="this is my first deployment code with self test">Click Here To See My YouTube Channel</a>
   
