@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> this is my first project to deploy ourself <font></h1>
 
-<a href="this is my first deployment code with self test">Click Here To See My YouTube Channel</a>
+<a href="this is my first deployment code with self test">after then we try to code with linux with pipeline</a>
   
   <h2> Thank you</h2>
   
